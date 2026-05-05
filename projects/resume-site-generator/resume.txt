@@ -1,0 +1,7 @@
+A. Candidate
+Courses :- Programming Languages and Techniques, Software Engineering, Data Structures
+Projects
+Portfolio Website Generator - Built a Python script that parses text resume data and renders a basic HTML resume page.
+Expense Tracker - Implemented file import, sorting, updates, and export logic for a command-line expense manager.
+------------------------------
+candidate@example.com
