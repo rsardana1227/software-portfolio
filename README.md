@@ -1,6 +1,6 @@
 # Software Projects
 
-This repo includes a few Python and Java projects from coursework and side work. They reflect a couple of the programming assignments and tools I have worked on: file parsing, object-oriented design, testing, and basic API usage.
+This repo includes some of my favorite Python and Java projects. They cover file parsing, object-oriented design, testing, and basic API usage.
 
 ## Projects
 
